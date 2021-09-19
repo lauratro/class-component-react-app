@@ -1,5 +1,5 @@
 # Spotify app Project
-This app allows the user to create new playlists and add them in his Spotify account
+This React app allows the user to create new playlists and add them in his Spotify account
 # Characteristics:
 - Class Components React structure
 - Spotify Api 
